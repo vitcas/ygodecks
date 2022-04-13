@@ -1,4 +1,5 @@
 ![enter image description here](https://i.ibb.co/BL82q4f/FMn-Gmhm-Xs-Ag-JF5.jpg)
+
 Decks de aprendizado para Yu-Gi-Oh! A intenção dos decks disponibilizados aqui é mostrar como o deck funciona e não oferecer decks competitivos, apenas uma base para iniciantes entenderem a mecânica do deck. 
 
 Qualquer jogador avançado conhece as staples, então elas normalmente não estarão nos decks daqui. As cartas do side são cartas do tema que não são tão boas ou outras opções que não entraram no main deck.
