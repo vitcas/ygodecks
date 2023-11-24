@@ -9,7 +9,3 @@ Primeiro eu estava seguindo a banlist do Master Duel, mas agora os deck estão d
 Todos os decks aqui possuem 40 cartas no main, a menos que exista uma ótima justificativa para ter mais. Os decks usados no mundial são os originais.
 
 **Decks no formato .ydk compatível com EDOPro e Duelingbook.**
-
-Contato:
-Discord: https://discord.gg/4282y8EGxP id: awface#3260
-Website: https://devmoe.blogspot.com/
